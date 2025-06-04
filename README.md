@@ -1,9 +1,10 @@
   <p align="center">
-ɪᴄ: ᴜʀᴀᴇᴀʀꜰ ᴏɴ x
+ɪᴄ: ꜱᴛᴀʀꜰᴀʟʟɴɪɢʜᴛ ᴏɴ ᴘɪɴ !
   </p>
 
 <p align="center">
-  <img width=650 src="https://cdn.discordapp.com/attachments/1069346277881561170/1379724576925286452/beep.jfif?ex=68414825&is=683ff6a5&hm=1a0a4dc9aabd844271a19f2e0dfb77372e0e84bc1d68117f5d734310f148fe00&"
+  <img width=650 src="https://cdn.discordapp.com/attachments/1069346277881561170/1379904782894104586/doomed.png?ex=6841eff9&is=68409e79&hm=28da3a3f1b29cd10a2cd425e326da9586a091983d6b27d8b5929f80faf2c758c&"
+"
 </p>
 
 <p align="center">
