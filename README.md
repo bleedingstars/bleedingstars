@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile)"></a>
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xh24cqngucm4mxcr2ztzzh7lqy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile"
+  <img width=650 src="https://cdn.discordapp.com/attachments/1069346277881561170/1379724576925286452/beep.jfif?ex=68414825&is=683ff6a5&hm=1a0a4dc9aabd844271a19f2e0dfb77372e0e84bc1d68117f5d734310f148fe00&"
 </p>
 
 <p align="center">
